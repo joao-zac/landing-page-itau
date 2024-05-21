@@ -1,10 +1,19 @@
 <br/>
 
-# Landing page com Tailwind e Next.js
-<br/>
+<h1 align="center"> Landing page com Tailwind e Next.js</h1>
+
+<p align="center"><strong>Status do Projeto:<br></strong> <i>Em andamento </i>🚧</p>
+
+<p align="center">
+<span><strong>Tecnologias e Ferramentas utilizadas:</strong></span>
+<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,github,git" style="height: 25px;"/>
+  </a>
+</p>
 
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`npx create-next-app@latest`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
-<br/>
+
 
 ## Sobre 
 Este projeto é uma landing page moderna e responsiva, desenvolvida utilizando Next.js e estilizada com Tailwind CSS. Aproveitando a performance e a flexibilidade do Next.js para renderização do lado do servidor, juntamente com a eficiência do Tailwind para a criação de interfaces elegantes e funcionais, esta landing page oferece uma experiência de usuário rápida e envolvente.
@@ -20,6 +29,11 @@ yarn dev
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
+## A Fazer
+
+- [🚧] Tornar o código mais semântico;
+
+- [🚧] Componentizar melhor o código;
 
 ## Saiba Mais
 
